@@ -1,5 +1,6 @@
 {
   "name": "nuxt-tailwindcss",
+  "license": "MIT",
   "author": {
     "name": "Raphael Schmid",
     "email": "raphaeljschmid@protonmail.com",
@@ -9,7 +10,7 @@
     "url": "https://github.com/rajosch/nuxt-tailwindcss"
   },
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./nuxt.config.ts",
   "scripts": {
     "dev": "nuxi prepare & nuxi dev .playground",

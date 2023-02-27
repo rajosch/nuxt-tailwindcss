@@ -10,7 +10,7 @@ Make sure to install the dependencies:
 npm install nuxt-tailwindcss
 ```
 
-## Update your nuxt.config.file
+## nuxt.config.ts
 
 ```ts
 defineNuxtConfig({
