@@ -7,7 +7,7 @@ Just install the layer and start using tailwindcss with Nuxt 3.
 Make sure to install the dependencies:
 
 ```bash
-npm install nuxt-tailwindcss
+npm install @nuxtjs/tailwindcss nuxt-tailwindcss
 ```
 
 ## nuxt.config.ts
