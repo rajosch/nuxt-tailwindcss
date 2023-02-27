@@ -14,7 +14,12 @@ npm install nuxt-tailwindcss
 
 ```ts
 defineNuxtConfig({
-  extends: 'nuxt-tailwindcss'
+  extends: [
+    'nuxt-tailwindcss'
+  ],
+  modules: [
+    '@nuxtjs/tailwindcss'
+  ]
 })
 ```
 
