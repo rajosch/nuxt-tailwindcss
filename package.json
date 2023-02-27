@@ -6,11 +6,19 @@
     "email": "raphaeljschmid@protonmail.com",
     "url": "https://rjschmid.net"
   },
+	"keywords": [
+    "tailwindcss",
+		"tailwind",
+    "nuxt",
+    "layer",
+    "nuxt-tailwind",
+    "nuxt-tailwindcss"
+	],
   "repository": {
     "url": "https://github.com/rajosch/nuxt-tailwindcss"
   },
   "type": "module",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "./nuxt.config.ts",
   "scripts": {
     "dev": "nuxi prepare & nuxi dev .playground",
